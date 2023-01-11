@@ -1,0 +1,14 @@
+D:\c# language\PatientDetails\PatientDetail\obj\Debug\PatientDetail.csprojAssemblyReference.cache
+D:\c# language\PatientDetails\PatientDetail\obj\Debug\PatientDetail.csproj.CoreCompileInputs.cache
+D:\c# language\PatientDetails\PatientDetail\bin\Debug\PatientDetail.exe.config
+D:\c# language\PatientDetails\PatientDetail\bin\Debug\PatientDetail.exe
+D:\c# language\PatientDetails\PatientDetail\bin\Debug\PatientDetail.pdb
+D:\c# language\PatientDetails\PatientDetail\obj\Debug\PatientDetail.exe
+D:\c# language\PatientDetails\PatientDetail\obj\Debug\PatientDetail.pdb
+D:\SUJATA DAMBAL\c# language123\PatientDetails\PatientDetail\bin\Debug\PatientDetail.exe.config
+D:\SUJATA DAMBAL\c# language123\PatientDetails\PatientDetail\bin\Debug\PatientDetail.exe
+D:\SUJATA DAMBAL\c# language123\PatientDetails\PatientDetail\bin\Debug\PatientDetail.pdb
+D:\SUJATA DAMBAL\c# language123\PatientDetails\PatientDetail\obj\Debug\PatientDetail.csprojAssemblyReference.cache
+D:\SUJATA DAMBAL\c# language123\PatientDetails\PatientDetail\obj\Debug\PatientDetail.csproj.CoreCompileInputs.cache
+D:\SUJATA DAMBAL\c# language123\PatientDetails\PatientDetail\obj\Debug\PatientDetail.exe
+D:\SUJATA DAMBAL\c# language123\PatientDetails\PatientDetail\obj\Debug\PatientDetail.pdb

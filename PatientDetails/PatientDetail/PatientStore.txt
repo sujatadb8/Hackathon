@@ -1,0 +1,5 @@
+﻿﻿~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PATIENT DISEASE MANAGER SOFTWARE~~~~~~~~~~~~~~~~~~~
+TO ADD NEW DISEASE------------------------>PRESS 1
+TO ADD SYMPTOM--------------->PRESS 2
+TO CHECKDETAILS----------------->PRESS 3
+PS: ANY OTHER KEY IS CONSIDERED AS EXIT....................................
