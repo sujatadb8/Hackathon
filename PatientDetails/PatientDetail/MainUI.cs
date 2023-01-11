@@ -107,9 +107,9 @@ namespace PatientDetail
 
     }
 
-    namespace TestingApp
+    namespace TestingApplication
     {
-        class App
+        class MedicalApp
         {
             static void Main(string[] args)
             {
